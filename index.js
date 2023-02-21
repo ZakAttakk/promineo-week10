@@ -2,9 +2,9 @@
 
 // 1. Put a Bootstrap row and three Bootstrap columns in your container div.  Reminder of how to do it here: getbootstrap.com/docs/5.2/layout/grid/
 
-// 2. In the first column, make a text input box on the HTML page.  Style it with a Bootstrap class.  Help here: getbootstrap.com/docs/5.2/forms/form-control/
+// 2. In the first column, make a text input box.  Style it with a Bootstrap class.  Help here: getbootstrap.com/docs/5.2/forms/form-control/
 
-// 3. In the second column, make a button on the HTML page.  Style it with a Bootstrap class.  Underneath the button make a div with an ID called "things"
+// 3. In the second column, make a button.  Style it with a Bootstrap class.  Underneath the button make a div with an ID called "things"
 
 // 4. In the JavaScript file, add a "click" event listener to the button.  Make the button log "it works!" when you click it.  Next, see if you can get it to log the value of whatever is typed in the the input box.  You might have to Google "get value from input javascript".
 
